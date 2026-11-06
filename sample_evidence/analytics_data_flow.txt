@@ -1,0 +1,4 @@
+FICTIONAL EXCERPT — InsightMetrics Proposed Data Flow
+Nova Care Cloud sends event counts, monthly utilization metrics, coarse age bands and pseudonymous device identifiers to InsightMetrics.
+Vendor describes dataset as 'de-identified'.
+Analyst questions: Are identifiers linkable to individuals? Which HIPAA de-identification method is used? Is re-identification reasonably possible? What source systems and processors are involved?

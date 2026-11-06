@@ -1,0 +1,7 @@
+Vendor ID,Question,Claimed response,Evidence reference,Analyst observation
+V-001,Is data encrypted at rest and in transit?,Yes,Not submitted,Request technical configuration evidence
+V-002,Were privileged accounts reviewed this quarter?,Yes,Q2 report only,Latest quarterly review overdue
+V-003,Do you process PHI?,"No, data is de-identified",Unvalidated data flow,Verify de-identification methodology
+V-004,Does this service receive PHI?,No,Security questionnaire,Scope assumed no PHI
+V-005,Is a BAA fully executed?,In legal review,No signed copy,Block PHI until executed
+V-006,Are subcontractors evaluated and documented?,Yes,No list submitted,Request subcontractor list

@@ -1,0 +1,4 @@
+FICTIONAL EXCERPT — MediVault Hosting Incident Response Summary
+Version: 2.1 | Reviewed: 2026-10-11
+The vendor states that critical incidents are triaged by the on-call security lead and reported to enterprise customers according to contractual notification commitments.
+Analyst note: This excerpt alone does not substantiate a comprehensive incident response test or all required notification terms.
